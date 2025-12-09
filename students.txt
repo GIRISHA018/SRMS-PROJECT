@@ -1,2 +1,1 @@
-1 John 78.5
-2 Maya 88.0
+367 Girisha 23.0
